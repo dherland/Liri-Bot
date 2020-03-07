@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dherland/Liri-Bot#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "moment": "^2.24.0"
   }
 }
