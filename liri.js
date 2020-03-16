@@ -5,11 +5,8 @@ var internetRating;
 
 var fs = require("fs");
 var keys = require("./keys.js");
-var Twitter = require('twitter');
 var request = require('request');
 var Spotify = require('node-spotify-api');
-
-var client = new Twitter(keys.twitter);
 
 var spotify = new Spotify(keys.spotify);
 
